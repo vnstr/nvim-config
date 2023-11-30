@@ -4,7 +4,7 @@ vim.opt.mousefocus = true
 
 -- Line Numbers
 vim.opt.number = true
-vim.opt.relativenumber = true
+--vim.opt.relativenumber = true
 
 -- Vertical column
 vim.opt.colorcolumn = "80"
